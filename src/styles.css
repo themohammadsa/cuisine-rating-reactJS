@@ -1,0 +1,46 @@
+.App {
+  margin: auto;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  max-width: 600px;
+  padding: 3rem;
+  padding-top: 0.5rem;
+  border: 7px solid #bfdbfe;
+  box-shadow: 5px 5px 5px #dbeafe, -5px -5px 5px #dbeafe;
+  border-radius: 50px;
+}
+
+hr {
+  border: 2px solid #bfdbfe;
+}
+
+body {
+  background-color: #eff6ff;
+  font-family: "Lato", sans-serif;
+}
+
+.button {
+  background-color: #bfdbfe;
+  padding: 0.5rem 1.5rem;
+  border-radius: 1rem;
+  cursor: pointer;
+  border: 2px solid #93c5fd;
+  margin: 0.5rem 1rem;
+  box-shadow: 1px 4px #dbeafe;
+  font-size: 1.05rem;
+}
+
+.list {
+  list-style: none;
+  border: 2px solid #dbeafe;
+  padding: 1rem 1rem;
+  margin: 1.5rem 0rem;
+  border-radius: 5px;
+  text-align: left;
+  width: 70%;
+  box-shadow: 5px 5px 6px #dbeafe;
+}
+
+ul {
+  padding: 0rem;
+}
